@@ -1,0 +1,1 @@
+A sample Client/Server that exchange some messages with eachother using the OCCP library.
