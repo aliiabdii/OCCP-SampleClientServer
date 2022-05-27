@@ -1,1 +1,1 @@
-A sample Client/Server that exchange some messages with eachother using the OCCP library.
+A sample Client and Server that exchange some messages with each other using the [OCPP library](https://github.com/mobilityhouse/ocpp).
